@@ -1,0 +1,11 @@
+// Entrar como administrador
+email: admin@gmail.com
+password: AdminLaArboleda.2023
+
+// Email Sandbox
+email: sb-hjk9l25164853@personal.example.com
+password: g)^g8_Gn
+
+// Dato importante
+- Los correos pueden tardar un poco en llegar.
+- Versión de PHP 7.4
