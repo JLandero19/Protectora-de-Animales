@@ -17,3 +17,4 @@ Este proyecto es una aplicación web desarrollada como parte del proyecto de fin
 - **Autenticación:** PHPMailer
 - **Calendario de eventos:** FullCalendar
 - **Administración de la web:** AdminLTE
+- **Gráfica de las donaciones:** Chart JS
