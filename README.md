@@ -11,5 +11,5 @@ Este proyecto es una aplicación web desarrollada como parte del proyecto de fin
 - **Autenticación y Autorización**: Sistema de login para asegurar que solo los usuarios autorizados pueden acceder a ciertas funcionalidades.
 
 ## Tecnologías Utilizadas
-**Frontend**: HTML, CSS, JavaScript y Bootstrap
-**Backend**: PHP y MySQL
+- **Frontend**: HTML, CSS, JavaScript y Bootstrap
+- **Backend**: PHP y MySQL
